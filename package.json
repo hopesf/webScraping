@@ -1,0 +1,23 @@
+{
+  "name": "webScraping",
+  "version": "1.0.0",
+  "description": "\"# webScraping\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hopesf/webScraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hopesf/webScraping/issues"
+  },
+  "homepage": "https://github.com/hopesf/webScraping#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
